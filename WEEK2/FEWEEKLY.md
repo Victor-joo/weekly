@@ -7,6 +7,14 @@
 - 앞으로는 build deploy에 coverage를 확인하도록 바뀔 듯. &rarr; 개발 도중 시나리오나 테스트 코드를 만들면 bran을 언급?
 
 ### 자기의 일은 스스로 찾자~! 
-#### 어떤 업무를 해보고 싶은지 생각해보고 다음 주에 discuss
+ 어떤 업무를 해보고 싶은지 생각해보고 다음 주에 discuss
 - trello back yard에 좋은 재료가 있을 지도 모른다고 한다
 - ```web/pages/faq/faqListData.js```가 그냥 유사 json + javascript로 이루어져있다. 이런 property들을 찾아서 따로 관리 하는 모듈을 만드는건 어떨까??? &rarr; 나중에 Mock API나 테스트 케이스에 도움이 될 지도 모르겠다.
+
+### SCSS Variable 변수 명명법?
+```kebob-case``` vs ```camelCase``` &rarr; vue에서 속성처럼 쓰도록 하자! &rarr; ```camelCase```
+~~React 같아서 좋다~!~~
+
+# So What
+- 일단 프로젝트 구조 부터 익히는 게 좋을 것 같다. convention 문서를 보더라도 실제 usecase가 있는게...
+- 

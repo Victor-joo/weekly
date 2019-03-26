@@ -11,3 +11,9 @@
 ## Portal
 - 단촐한 듯
 - public ssh key도 연락처에 공개 된다. 🤔
+
+## 외않되지
+```anime.js```랑 CSS transition이랑 묘하게 잘 안 어울린다. 어차피 숫자가 줄어드는 애니메이션 효과야 CSS로 해결 할 수 없으니 anime.js로 해결횄는데, 문제는 keyframe이 2개가 생겨서 timing에 변동이 생기면 굳이 2번씩 작업해야한다...
+<pre>Q. CSS transition을 anime.js로 옮길까...? 그래도 될까??</pre>
++ animation control을 기본적으로 timeline으로 했으면 좋겠다. delay는 duration+previous element(delay + duration)까지 계산해야해서 매우 불편하다.
++ Slack ```#product-study```에서는 @ronny가 제안이나 weekly를 공유하거나 아이디어를 올린다. ~~사실 이 채널에서 영감을 받아서 만들 생각을 했다~~
