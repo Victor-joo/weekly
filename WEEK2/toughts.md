@@ -31,3 +31,8 @@
 - ```LoanIndex.vue``` &rarr; *Index.vue가 page layout인 듯
 - ```slot tag```?
 - Default 값을 99로 줬는데, 그러면 안 될 것 같다. &larr; 왜냐하면 금액이 커질 수 있으니까? &larr; ```InterestChart.vue```에서도 ```Math.max()```로 최대값을 기준으로 비율로 나타내고 있기 때문
+
+
+## Admin Renewal
+- Slack Feedback Channel
+- admin ```JSP``` to ```Vue``` 
