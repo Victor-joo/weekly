@@ -11,6 +11,8 @@
 ## Portal
 - 단촐한 듯
 - public ssh key도 연락처에 공개 된다. 🤔
+- 휴가와 오아시스도 여기에서
+- 닉네임 프로필도 확인 가능!
 
 ## transition 외않되지
 ```anime.js```랑 CSS transition이랑 묘하게 잘 안 어울린다. 어차피 숫자가 줄어드는 애니메이션 효과야 CSS로 해결 할 수 없으니 anime.js로 해결횄는데, 문제는 keyframe이 2개가 생겨서 timing에 변동이 생기면 굳이 2번씩 작업해야한다...
@@ -24,7 +26,7 @@
 + 홍보 마케팅 : MKT
 + QA : ??
 + 인사팀 : PEOPLE 
-
+![조직도 from google site](https://f87e10c6-a-4ca510ec-s-sites.googlegroups.com/a/lendit.co.kr/wiki/freshman/sanae-saenghwal-bangbeob/emailgroup.png?attachauth=ANoY7cpst7JrZNkBWaI3DO6C6Os9SmctK9PYbj6gT4-vsAxTcbN0WVAXOyLXV2PtBL8REaq3dr0faZwkkHCjlp7JV3a5sGn7bbU7TVk4MZfxJTnNzKfUZ-NGnmV82vfhcDkpZCNyFRVwziTqSsTjvNvuz22coY43VH3Ft40iEZDN85bz0u-0sIoOS_jEPaESIj_9fLMYA1BzoIe5Ktyajd_XEljlqABrhRWphdBExOhm8PnL6uXj8rFp74ucmzr4xl-vsCwnwkxR&attredirects=0)
 
 ## loan submain animation
 - 애니메이션 효과 타이밍...
@@ -36,3 +38,7 @@
 ## Admin Renewal
 - Slack Feedback Channel
 - admin ```JSP``` to ```Vue``` 
+
+## Monorepo branch
+곧 branch가 없어질 수 있지만...
+https://github.com/LenditKr/lendit-front-end/tree/task/monorepo
