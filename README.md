@@ -11,3 +11,8 @@
 - ```Issue```는 어떤 방식으로 활용해볼 수 있을까 🤔
 - 매 주 주기적으로 기록할 일이 생기는 것은 분류 별로 ```.md``` 파일로 기록하도록 하자
 
+# Rules
+## Regualry update
+ - 1 commit / 1 update with description
+ - 1 push / 1 week
+ - 매주 마지막 근무(금요일)에 회고
