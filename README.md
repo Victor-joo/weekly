@@ -15,4 +15,8 @@
 ## Regualry update
  - 1 commit / 1 update with description
  - 1 push / 1 week
- - 매주 마지막 근무(금요일)에 회고
+ + 매주 마지막 근무(금요일)에 회고 : 가능한 짧고 명료하게
+   + 구조
+      * 감상(`thoughts`)
+      * 정보(`userfule_links`+`tips`) 
+      * 문제/원인/해결/개선안(`worklog` 참조, As-is &rarr; To-be, sol/res)
